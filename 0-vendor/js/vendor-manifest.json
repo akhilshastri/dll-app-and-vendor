@@ -1,0 +1,36 @@
+{
+  "name": "vendor_lib_f54ec7d5a493295b8faf",
+  "content": {
+    "../node_modules/lodash/lodash.js": {
+      "id": "6d8089820eedc734c4ea",
+      "meta": {}
+    },
+    "../node_modules/sample.js": {
+      "id": "722f27e7749b907bc3a8",
+      "meta": {
+        "harmonyModule": true
+      },
+      "exports": [
+        "squareX"
+      ]
+    },
+    "../../../../../../../../usr/local/lib/node_modules/webpack/buildin/module.js": {
+      "id": "8ccdd81c95481c2c32b4",
+      "meta": {}
+    },
+    "../node_modules/example-vendor.js": {
+      "id": "a2bb51a3500f330b1ac3",
+      "meta": {
+        "harmonyModule": true
+      },
+      "exports": [
+        "square",
+        "default"
+      ]
+    },
+    "../../../../../../../../usr/local/lib/node_modules/webpack/buildin/global.js": {
+      "id": "dc5e1ea12be53a10ceca",
+      "meta": {}
+    }
+  }
+}
